@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Spring Boot local configs
+application-local.properties
+
+# VS Code
+.vscode/
